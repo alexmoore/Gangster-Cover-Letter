@@ -1,0 +1,17 @@
+body {
+	background-image: url("../images/white-linen.png");
+	background-repeat: repeat;
+	font-family: 'Helvetica Neue',Helvetica,Arial,Sans-serif;
+	text-shadow: 0 1px 0 #fff;
+	color: #555;
+	margin: 0;
+
+}
+
+body div#main {
+	width: 900px;
+	background-color: #fefefe;
+	margin: 30px auto;
+	padding: 30px;
+}
+
